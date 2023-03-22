@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A safe and inclusive forum app for young women promoting free speech and social support](https://flutterflux.com/a-safe-and-inclusive-forum-app-for-young-women-promoting-free-speech-and-social-support/)
-- [The Dart client for Teta CMS](https://flutterflux.com/the-dart-client-for-teta-cms/)
-- [How to Use Font Awesome in Flutter](https://flutterflux.com/how-to-use-font-awesome-in-flutter/)
-- [How to Remove Special Characters from String Flutter](https://flutterflux.com/how-to-remove-special-characters-from-string-flutter/)
-- [How to Use SliverAppBar in Flutter](https://flutterflux.com/sliverappbar-in-flutter/)
+- [Types of widgets in Flutter](https://flutterflux.com/types-of-widgets-in-flutter/)
+- [How to Add Hexadecimal Color in Flutter](https://flutterflux.com/how-to-add-hexadecimal-color-in-flutter/)
+- [Show hide widget in Flutter](https://flutterflux.com/show-hide-widget-in-flutter/)
+- [Firebase remote config Flutter example](https://flutterflux.com/firebase-remote-config-flutter-example/)
+- [Flutter Draggable widget example](https://flutterflux.com/flutter-draggable-widget-example/)
 <!-- BLOG-POST-LIST:END -->
